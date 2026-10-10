@@ -4,7 +4,7 @@ interface Props {
   description?: string;
   canonicalPath?: string;
   /** Matches original CSS bundle order */
-  headVariant: "home" | "article" | "bloglist";
+  headVariant: "home" | "article";
   ogImage?: string;
 }
 
@@ -50,16 +50,6 @@ const canonicalUrl = new URL(canonicalPath, Astro.site).toString();
         <>
           <link href="/css/blog.css" rel="stylesheet" />
           <link href="/css/style.css" rel="stylesheet" />
-          <link href="/css/responsive.css" rel="stylesheet" />
-        </>
-      )
-    }
-
-    {
-      headVariant === "bloglist" && (
-        <>
-          <link href="/css/style.css" rel="stylesheet" />
-          <link href="/css/blog.css" rel="stylesheet" />
           <link href="/css/responsive.css" rel="stylesheet" />
         </>
       )

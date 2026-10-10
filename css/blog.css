@@ -161,9 +161,3 @@ blockquote {
   height: 60px;
   border-radius: 0%;
 }
-#header {
-  background: url("../images/CrossWords/cw-bg.jpg") repeat scroll center 42% / cover;
-  height: 55vh;
-  width: 100%;
-  object-position: top;
-}

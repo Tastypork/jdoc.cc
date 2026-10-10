@@ -1,6 +1,6 @@
-https://blog.jocal.dev/ /blog 200!
 /about-p.html /about 301
 /about.html /about 301
+/blog / 301
 /jesus-christ-p.html /blog/jesus-christ 301
 /jesus-christ.html /blog/jesus-christ 301
 /waiting-faith-p.html /blog/waiting-faith 301
@@ -8,4 +8,4 @@ https://blog.jocal.dev/ /blog 200!
 /walking-christ-p.html /blog/walking-christ 301
 /walking-christ.html /blog/walking-christ 301
 /elk.html /technical-writing/elk 301
-/crosswords.html /blog 301
+/crosswords.html / 301
