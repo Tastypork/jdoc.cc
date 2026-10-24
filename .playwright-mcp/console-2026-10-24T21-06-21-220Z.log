@@ -1,0 +1,45 @@
+[     972ms] [LOG] JQMIGRATE: Migrate is installed, version 3.0.0 @ http://127.0.0.1:4322/lib/jquery/jquery-migrate.min.js:1
+[   46836ms] [LOG] [vite] server connection lost. Polling for restart... @ http://127.0.0.1:4322/@vite/client:1695
+[   46849ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   47854ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   48866ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   49872ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   50876ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   51889ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   52899ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   53907ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   54915ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   55925ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   56935ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   58033ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   59046ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   60061ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   61083ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   62120ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   63136ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   64179ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   65219ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   66291ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   67358ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   68401ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   69504ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   70630ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   72137ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   73518ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   75729ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   77409ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   79686ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   81960ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   86847ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   89689ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   92757ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   96719ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[   99174ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  103399ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  107371ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  110041ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  113732ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  119583ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  123800ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  127978ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:4322/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:4322/@vite/client:1766
+[  131679ms] [LOG] JQMIGRATE: Migrate is installed, version 3.0.0 @ http://127.0.0.1:4322/lib/jquery/jquery-migrate.min.js:1

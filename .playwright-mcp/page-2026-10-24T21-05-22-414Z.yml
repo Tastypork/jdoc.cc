@@ -1,0 +1,253 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - text: 
+    - generic [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - heading "E" [level=1] [ref=f2e6]: E|
+        - paragraph [ref=f2e7]: Developer, Engineer, Innovator
+        - list [ref=f2e8]:
+          - listitem [ref=f2e9]:
+            - link "" [ref=f2e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/joshuaocallaghan/
+          - listitem [ref=f2e12]:
+            - link "" [ref=f2e13] [cursor=pointer]:
+              - /url: https://github.com/tastypork
+          - listitem [ref=f2e15]:
+            - link "" [ref=f2e16] [cursor=pointer]:
+              - /url: /joshua_ocallaghan.pdf
+      - link "╲╱" [ref=f2e18] [cursor=pointer]:
+        - /url: "#timeline"
+  - generic [ref=f2e21]:
+    - list [ref=f2e22]:
+      - listitem [ref=f2e23]:
+        - generic [ref=f2e24] [cursor=pointer]: Curr
+      - listitem [ref=f2e25]:
+        - generic [ref=f2e26] [cursor=pointer]: "2025"
+      - listitem [ref=f2e27]:
+        - generic [ref=f2e28] [cursor=pointer]: "2023"
+      - listitem [ref=f2e29]:
+        - generic [ref=f2e30] [cursor=pointer]: "2021"
+      - listitem [ref=f2e31]:
+        - generic [ref=f2e32] [cursor=pointer]: "|"
+      - listitem [ref=f2e33]:
+        - generic [ref=f2e34] [cursor=pointer]: "2020"
+      - listitem [ref=f2e35]:
+        - generic [ref=f2e36] [cursor=pointer]: "|"
+      - listitem [ref=f2e37]:
+        - generic [ref=f2e38] [cursor=pointer]: "|"
+      - listitem [ref=f2e39]:
+        - generic [ref=f2e40] [cursor=pointer]: "|"
+      - listitem [ref=f2e41]:
+        - generic [ref=f2e42] [cursor=pointer]: "2019"
+      - listitem [ref=f2e43]:
+        - generic [ref=f2e44] [cursor=pointer]: "2016"
+      - listitem [ref=f2e45]:
+        - generic [ref=f2e46] [cursor=pointer]: "2014"
+      - listitem [ref=f2e47]:
+        - generic [ref=f2e48] [cursor=pointer]: "2011"
+      - listitem [ref=f2e49]:
+        - generic [ref=f2e50] [cursor=pointer]: "1998"
+    - generic [ref=f2e55]:
+      - group "1 / 14" [ref=f2e56]:
+        - generic [ref=f2e60]:
+          - text: Senior Software Engineer
+          - paragraph [ref=f2e61]: I currently work at Walmart as a Senior Software Engineer, focusing on database cost optimization and the integration of AI solutions to improve efficiency across large-scale operations.
+      - group "2 / 14" [ref=f2e62]:
+        - generic [ref=f2e66]:
+          - text: Cloud Software Engineer
+          - paragraph [ref=f2e67]: I worked at Intel as a Cloud Software Engineer, collaborating with high-profile clients to enhance workload performance and cost efficiency. My responsibilities included enhancing compression pipelines, doubling throughput for Kafka workloads, and managing cloud environments across AWS, GCP, and Azure.
+      - group "3 / 14" [ref=f2e68]:
+        - generic [ref=f2e72]:
+          - text: Cloud Software Engineer
+          - paragraph [ref=f2e73]: For two years, I specialized in FFmpeg and media optimization, working closely with media-based clients. This required expertise in transcoding techniques and leveraging the latest hardware optimizations for efficient media processing. I completed and launched Benchmarking software which improved operations by 5x.
+      - group "4 / 14" [ref=f2e74]:
+        - generic [ref=f2e78]:
+          - text: Software Engineer
+          - paragraph [ref=f2e79]: I collaborated with the Process Engineering and Statistics team to develop automation scripts and data visualizations for the fab. Using Python, I consolidated CSV files and queried relational databases, creating interactive visualizations with Plotly.
+      - group "5 / 14" [ref=f2e80]:
+        - generic [ref=f2e84]:
+          - text: Master's Degree!
+          - paragraph [ref=f2e85]: Completing my Master's degree was a significant achievement, especially as I navigated both my accident and COVID restrictions, often studying while bedridden in the hospital. With a concentration in Big Data and Software Engineering, it was the most challenging academic experience I’ve faced, making the accomplishment even more meaningful.
+      - group "6 / 14" [ref=f2e86]:
+        - generic [ref=f2e90]:
+          - text: A Second Chance at Life
+          - paragraph [ref=f2e91]: God saved my life! In 2020, a motorcycle accident radically changed everything, leaving me paralyzed from the waist down. I spent four months in the hospital and another two in recovery. Despite the challenges, I continued my studies, and to this day, I am grateful for every breath.
+      - group "7 / 14" [ref=f2e92]:
+        - generic [ref=f2e96]:
+          - text: Bachelors Degree
+          - paragraph [ref=f2e97]: I completed my undergraduate degree in just 3.5 years, earning a Bachelor's in Computer Science with a focus in Cybersecurity from Arizona State University. It was a challenging yet rewarding journey that fueled my passion for technology and problem-solving. Through hands-on projects and rigorous coursework, I developed skills in data structures and algorithms and software development. Proud to say—Forks Up!
+      - group "8 / 14" [ref=f2e98]:
+        - generic [ref=f2e102]:
+          - text: Starting My Role At Intel
+          - paragraph [ref=f2e103]: I landed my first job at Intel, joining the Process Engineering team for Software Engineering where I focused on developing software solutions. My main responsibilities involved creating data visualizations to support engineering processes, enabling more informed decision-making and operational improvements.
+      - group "9 / 14" [ref=f2e104]:
+        - generic [ref=f2e108]:
+          - text: First Internship
+          - paragraph [ref=f2e109]: I had the pleasure of working with American Express over the summer as part of the Big Data Platform Engineering team, where I primarily focused on managing Hadoop clusters and Kubernetes. This experience deepened my understanding of big data infrastructure and cloud-native technologies.
+      - group "10 / 14" [ref=f2e110]:
+        - generic [ref=f2e114]:
+          - text: Undergraduate Teaching Assistant
+          - paragraph [ref=f2e115]: I served as a teaching assistant for Professor Rita Bazzi in the Principles of Programming Languages course. I helped students understand key concepts such as regular expressions (regex), syntax, semantics, and the distinctions between compilers and interpreters. It was a rewarding experience that reinforced my own understanding while supporting students in mastering complex programming principles.
+      - group "11 / 14" [ref=f2e116]:
+        - generic [ref=f2e120]:
+          - text: Started ASU
+          - paragraph [ref=f2e121]: Beginning my journey at Arizona State University was the start of an exciting chapter in my life. I had the privilege of competing in Track and Field at a highly competitive level, which taught me invaluable lessons in discipline, perseverance, and time management. Balancing athletics with academics in Computer Science pushed me to grow both as an athlete and a student. My time at ASU laid the foundation for everything that came after, and I'm grateful for the opportunities and experiences it provided.
+      - group "12 / 14" [ref=f2e122]:
+        - generic [ref=f2e126]:
+          - text: First Website
+          - paragraph [ref=f2e127]: In high school, I created my first website after learning HTML and CSS. It was all about soup—a fun and quirky project that, sadly, I didn't keep around. Looking back, it was a pretty tasty-looking website, and it sparked my passion for web development!
+      - group "13 / 14" [ref=f2e128]:
+        - generic [ref=f2e132]:
+          - text: First Coding Experience
+          - paragraph [ref=f2e133]: A long time ago, I had my first coding experience in Minecraft using Java. I created a mod for a 'chocolate' ore that dropped 100 diamonds—it was pretty rough, but a fun introduction to programming. Looking back, it's amazing how much both Minecraft and my coding skills have evolved since then.
+      - group "14 / 14" [ref=f2e134]:
+        - generic [ref=f2e138]:
+          - text: I was born!
+          - paragraph [ref=f2e139]: A young programmer was born this year, with countless exciting experiences waiting just around the corner!
+  - generic [ref=f2e140]:
+    - generic [ref=f2e141]: Terraform C Kubernetes Git OpenAI FFmpeg GCP Bash Java Azure Power BI Python Tableau Ubuntu Spark C# CentOS Hadoop Docker AWS SQL C++ Ansible Windows
+    - generic [ref=f2e142]: Terraform C Kubernetes Git OpenAI FFmpeg GCP Bash Java Azure Power BI Python Tableau Ubuntu Spark C# CentOS Hadoop Docker AWS SQL C++ Ansible Windows
+  - generic [ref=f2e145]:
+    - img "me" [ref=f2e149]
+    - generic [ref=f2e150]:
+      - generic [ref=f2e151]:
+        - heading "Who Am I?" [level=2] [ref=f2e152]
+        - paragraph [ref=f2e153]:
+          - strong [ref=f2e154]: Thanks for taking the time to visit my page!
+          - text: My name is Joshua O'Callaghan, a Cloud Software Engineer at Intel with a Master's in Computer Science from ASU. I'm passionate about Software Engineering, especially when working on challenging new projects. I've worked on optimizing workloads using AWS, GCP, and Azure, and I love diving into complex problems while continuously expanding my skill set. Outside of work, I'm hands-on with cars, woodworking, and building computers, and I love staying active and motivated. Feel free to check out my projects and download my
+          - link "resume" [ref=f2e155] [cursor=pointer]:
+            - /url: /joshua_ocallaghan.pdf
+          - text: "!"
+      - link "Read More" [ref=f2e156] [cursor=pointer]:
+        - /url: /about
+  - generic [ref=f2e159]:
+    - generic [ref=f2e160]:
+      - generic:
+        - generic [ref=f2e162]:
+          - generic [ref=f2e163]: 
+          - generic [ref=f2e164]: MOBILE APPS
+          - paragraph [ref=f2e165]: App development that matters, portable, and impactful.
+        - generic [ref=f2e167]:
+          - generic [ref=f2e168]: 
+          - generic [ref=f2e169]: Analytics
+          - paragraph [ref=f2e170]: Carefully analyzed data, concise and meaningful visualizations.
+        - generic [ref=f2e172]:
+          - generic [ref=f2e173]: 
+          - generic [ref=f2e174]: MEDIA
+          - paragraph [ref=f2e175]: Encoding, decoding, on VOD, Broadcast, Live
+        - generic [ref=f2e177]:
+          - generic [ref=f2e178]: 
+          - generic [ref=f2e179]: CODE OPTIMIZATION
+          - paragraph [ref=f2e180]: Building beautiful code that runs efficiently.
+        - generic [ref=f2e182]:
+          - generic [ref=f2e183]: 
+          - generic [ref=f2e184]: INNOVATIVE
+          - paragraph [ref=f2e185]: Thinking outside to box to solve complex problems.
+        - generic [ref=f2e187]:
+          - generic [ref=f2e188]: 
+          - generic [ref=f2e189]: SYSTEM DESIGN
+          - paragraph [ref=f2e190]: Building robust and reliable systems.
+        - generic [ref=f2e192]:
+          - generic [ref=f2e193]: 
+          - generic [ref=f2e194]: MOBILE APPS
+          - paragraph [ref=f2e195]: App development that matters, portable, and impactful.
+        - generic [ref=f2e197]:
+          - generic [ref=f2e198]: 
+          - generic [ref=f2e199]: Analytics
+          - paragraph [ref=f2e200]: Carefully analyzed data, concise and meaningful visualizations.
+        - generic [ref=f2e202]:
+          - generic [ref=f2e203]: 
+          - generic [ref=f2e204]: MEDIA
+          - paragraph [ref=f2e205]: Encoding, decoding, on VOD, Broadcast, Live
+        - generic [ref=f2e207]:
+          - generic [ref=f2e208]: 
+          - generic [ref=f2e209]: CODE OPTIMIZATION
+          - paragraph [ref=f2e210]: Building beautiful code that runs efficiently.
+        - generic [ref=f2e212]:
+          - generic [ref=f2e213]: 
+          - generic [ref=f2e214]: INNOVATIVE
+          - paragraph [ref=f2e215]: Thinking outside to box to solve complex problems.
+        - generic [ref=f2e217]:
+          - generic [ref=f2e218]: 
+          - generic [ref=f2e219]: SYSTEM DESIGN
+          - paragraph [ref=f2e220]: Building robust and reliable systems.
+    - generic [ref=f2e221]:
+      - button [ref=f2e222] [cursor=pointer]
+      - button [ref=f2e223] [cursor=pointer]
+      - button [ref=f2e224] [cursor=pointer]
+  - generic [ref=f2e225]:
+    - heading "Technical Writings" [level=2] [ref=f2e228]
+    - generic [ref=f2e232]:
+      - link "img Real-Time Weather Data Ingestion and Visualization Using Python and ELK stack" [ref=f2e234] [cursor=pointer]:
+        - /url: /technical-writing/elk
+        - generic [ref=f2e235]:
+          - img "img" [ref=f2e236]
+          - generic [ref=f2e237]: Real-Time Weather Data Ingestion and Visualization Using Python and ELK stack
+      - link "img Interactive, Intelligent and Immersive Visualizations" [ref=f2e239] [cursor=pointer]:
+        - /url: /portfolio1.pdf
+        - generic [ref=f2e240]:
+          - img "img" [ref=f2e241]
+          - generic [ref=f2e242]: Interactive, Intelligent and Immersive Visualizations
+      - link "img Modularized Transformer-based Ranking Framework" [ref=f2e244] [cursor=pointer]:
+        - /url: /portfolio1.pdf
+        - generic [ref=f2e245]:
+          - img "img" [ref=f2e246]
+          - generic [ref=f2e247]: Modularized Transformer-based Ranking Framework
+      - link "img Distributed Databases using the Hadoop Ecosystem" [ref=f2e249] [cursor=pointer]:
+        - /url: /portfolio2.pdf
+        - generic [ref=f2e250]:
+          - img "img" [ref=f2e251]
+          - generic [ref=f2e252]: Distributed Databases using the Hadoop Ecosystem
+  - generic [ref=f2e253]:
+    - heading "Have you had an encounter with Jesus?" [level=2] [ref=f2e256]
+    - generic [ref=f2e259]:
+      - generic [ref=f2e261]:
+        - link [ref=f2e262] [cursor=pointer]:
+          - /url: /blog/jesus-christ
+          - img "img" [ref=f2e263]
+        - generic [ref=f2e264]:
+          - heading [level=4] [ref=f2e265]:
+            - link "WHO IS JESUS CHRIST?" [ref=f2e266] [cursor=pointer]:
+              - /url: /blog/jesus-christ
+          - paragraph [ref=f2e267]: Read this if you've never heard of Jesus!
+      - generic [ref=f2e269]:
+        - link [ref=f2e270] [cursor=pointer]:
+          - /url: /blog/waiting-faith
+          - img "img" [ref=f2e271]
+        - generic [ref=f2e272]:
+          - heading [level=4] [ref=f2e273]:
+            - link "WAITING ON FAITH" [ref=f2e274] [cursor=pointer]:
+              - /url: /blog/waiting-faith
+          - paragraph [ref=f2e275]: What should we do when our promises from God haven't delivered yet?
+      - generic [ref=f2e277]:
+        - link [ref=f2e278] [cursor=pointer]:
+          - /url: /blog/walking-christ
+          - img "img" [ref=f2e279]
+        - generic [ref=f2e280]:
+          - heading [level=4] [ref=f2e281]:
+            - link "WALKING IN CHRIST" [ref=f2e282] [cursor=pointer]:
+              - /url: /blog/walking-christ
+          - paragraph [ref=f2e283]: Trying to walk in faith? What does the Christian walk look like?
+  - generic [ref=f2e287]:
+    - generic [ref=f2e289]:
+      - heading "Have A Question?" [level=2] [ref=f2e290]
+      - list [ref=f2e291]:
+        - listitem [ref=f2e292]
+        - listitem [ref=f2e293]: Phoenix, United States
+        - listitem [ref=f2e294]: +1(602)607-3189
+        - listitem [ref=f2e295]: jcallaghan1250@gmail.com
+    - form [ref=f2e297]:
+      - generic [ref=f2e298]:
+        - textbox "Your Name" [ref=f2e301]
+        - textbox "Your Email" [ref=f2e304]
+        - textbox "Subject" [ref=f2e307]
+        - textbox "Message" [ref=f2e310]
+        - button "Send message" [ref=f2e312] [cursor=pointer]
+  - contentinfo [ref=f2e313]:
+    - link "Web design done by Jocal®" [ref=f2e315] [cursor=pointer]:
+      - /url: https://jocal.dev
+  - generic [ref=f2e318]:
+    - button [ref=f2e319]
+    - button [ref=f2e325]
+    - button [ref=f2e329]
+    - button [ref=f2e334]

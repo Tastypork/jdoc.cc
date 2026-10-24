@@ -1,0 +1,177 @@
+- generic [active] [ref=f3e1]:
+  - link "Skip to content" [ref=f3e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - link "Jocal home" [ref=f3e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f3e6]: Jocal
+      - navigation "Primary" [ref=f3e7]:
+        - list [ref=f3e8]:
+          - listitem [ref=f3e9]:
+            - link "Services" [ref=f3e10] [cursor=pointer]:
+              - /url: "#services"
+          - listitem [ref=f3e11]:
+            - link "Pricing" [ref=f3e12] [cursor=pointer]:
+              - /url: "#pricing"
+          - listitem [ref=f3e13]:
+            - link "Book" [ref=f3e14] [cursor=pointer]:
+              - /url: "#book"
+  - main [ref=f3e15]:
+    - region [ref=f3e16]:
+      - generic [ref=f3e18]:
+        - paragraph [ref=f3e19]: Software solutions · AI integration
+        - heading "Jocal" [level=1] [ref=f3e20]
+        - paragraph [ref=f3e21]: Custom software and AI integration for reliable automation, smarter workflows, and faster product delivery.
+        - link "Book A Discovery Call Now" [ref=f3e23] [cursor=pointer]:
+          - /url: "#book"
+      - link "Scroll to services" [ref=f3e24] [cursor=pointer]:
+        - /url: "#services"
+        - generic [ref=f3e25]: Explore
+    - region [ref=f3e28]:
+      - generic [ref=f3e29]:
+        - paragraph [ref=f3e30]: Capabilities
+        - heading "What we focus on" [level=2] [ref=f3e31]
+        - paragraph [ref=f3e32]: Here at Jocal we are centered on practical AI and solid engineering — shipping systems you can run and evolve.
+        - generic [ref=f3e33]:
+          - article [ref=f3e34]:
+            - heading "AI integration" [level=3] [ref=f3e35]
+            - paragraph [ref=f3e36]: Grounded assistants, classification, and summarization wired into your stack — with clear boundaries and monitoring.
+          - article [ref=f3e37]:
+            - heading "Custom software" [level=3] [ref=f3e38]
+            - paragraph [ref=f3e39]: Web apps, APIs, and internal tools built to match how your team actually works, not how a template assumes you work.
+          - article [ref=f3e40]:
+            - heading "Automation & integrations" [level=3] [ref=f3e41]
+            - paragraph [ref=f3e42]: Connect CRMs, billing, support, and data pipelines so work flows without manual handoffs.
+    - region [ref=f3e43]:
+      - generic [ref=f3e44]:
+        - paragraph [ref=f3e45]: How it works
+        - heading "From discovery to fit" [level=2] [ref=f3e46]
+        - paragraph [ref=f3e47]: No pressure — just enough structure to see if we can help before anyone commits to a full engagement.
+        - generic [ref=f3e48]:
+          - article [ref=f3e49]:
+            - heading "Free 15–30 minute discovery call" [level=3] [ref=f3e50]
+            - paragraph [ref=f3e51]: You walk us through what you’re doing today, where it hurts, and how urgent it is. We ask clarifying questions, outline what’s realistic, and discuss the kind of value a build or integration could unlock.
+          - article [ref=f3e52]:
+            - heading "Team fit review" [level=3] [ref=f3e53]
+            - paragraph [ref=f3e54]: "After the call, we take it back to the team: scope, timeline, and whether we’re the right partner. If it’s a fit, we’ll outline next steps; if not, we’ll be upfront so you can move forward clearly."
+    - region [ref=f3e55]:
+      - generic [ref=f3e56]:
+        - paragraph [ref=f3e57]: Reviews
+        - heading "Highest Rated In The Area" [level=2] [ref=f3e58]
+        - generic [ref=f3e59]:
+          - article [ref=f3e60]:
+            - img "5 out of 5 stars" [ref=f3e61]: ★★★★★
+            - blockquote [ref=f3e62]:
+              - paragraph [ref=f3e63]: Clear expectations from the first call through launch. The site shipped on time and the handoff notes made it easy for our team to own day-to-day updates.
+          - article [ref=f3e64]:
+            - img "5 out of 5 stars" [ref=f3e65]: ★★★★★
+            - blockquote [ref=f3e66]:
+              - paragraph [ref=f3e67]: We needed AI woven into our flow without a fragile demo. The integration feels intentional — visitors get answers, and we finally have visibility into what people ask.
+          - article [ref=f3e68]:
+            - img "5 out of 5 stars" [ref=f3e69]: ★★★★★
+            - blockquote [ref=f3e70]:
+              - paragraph [ref=f3e71]: Responsive communication and no jargon. Scope stayed grounded in what we actually needed, and revisions were handled without drama.
+    - region [ref=f3e72]:
+      - generic [ref=f3e73]:
+        - paragraph [ref=f3e74]: Pricing
+        - heading "Packages that match your ambition" [level=2] [ref=f3e75]
+        - paragraph [ref=f3e76]: These tiers reflect typical project shapes. Final scope, timeline, and investment are confirmed after a discovery call.
+        - generic [ref=f3e77]:
+          - article [ref=f3e78]:
+            - heading "Minimum Package" [level=3] [ref=f3e79]
+            - paragraph [ref=f3e80]: Focused one-time builds. You’ll arrange hosting with a provider you choose — we deliver the site or refresh ready to deploy.
+            - list [ref=f3e81]:
+              - listitem [ref=f3e82]: Personal portfolios
+              - listitem [ref=f3e83]: Business landing pages
+              - listitem [ref=f3e84]: Small website refreshes
+              - listitem [ref=f3e85]: 1 revision round
+            - paragraph [ref=f3e86]: Starting at $600
+          - article [ref=f3e87]:
+            - heading "AI Professional Package" [level=3] [ref=f3e88]
+            - paragraph [ref=f3e89]: Full-featured web products with AI and data woven in — chat experiences, CRM hooks, and dashboards your team can run day to day.
+            - list [ref=f3e90]:
+              - listitem [ref=f3e91]: AI chatbot integrated with your website
+              - listitem [ref=f3e92]: CRM integration
+              - listitem [ref=f3e93]: Multi-faceted tools and web experiences
+              - listitem [ref=f3e94]: Scalable database integrations
+              - listitem [ref=f3e95]: Analysis dashboards
+              - listitem [ref=f3e96]: Handoff documentation included
+              - listitem [ref=f3e97]: Multiple revision rounds
+            - paragraph [ref=f3e98]: Starting at $4,000
+          - article [ref=f3e99]:
+            - heading "Ultimate Business Takeoff Package" [level=3] [ref=f3e100]
+            - paragraph [ref=f3e101]: Large-scale AI and workflow programs for organizations ready to reshape how they capture leads and operate.
+            - list [ref=f3e102]:
+              - listitem [ref=f3e103]: Business workflow and lead-generation optimization
+              - listitem [ref=f3e104]: Priority customer support
+              - listitem [ref=f3e105]: Large-scale AI integration
+              - listitem [ref=f3e106]: Agentic task optimization
+            - paragraph [ref=f3e107]: Starting at $8,000
+    - region [ref=f3e108]:
+      - generic [ref=f3e109]:
+        - paragraph [ref=f3e110]: Discovery call
+        - heading "Book a discovery call" [level=2] [ref=f3e111]
+        - paragraph [ref=f3e112]: Share a quick snapshot of your project, then pick a time. We use both to prepare for a focused conversation.
+        - generic [ref=f3e113]:
+          - generic [ref=f3e114]:
+            - heading "Project snapshot" [level=3] [ref=f3e115]
+            - paragraph [ref=f3e116]: Tell us what you’re trying to achieve. Fields marked with * are required.
+            - generic [ref=f3e117]:
+              - paragraph [ref=f3e118]:
+                - generic [ref=f3e119]:
+                  - text: "Do not fill this in:"
+                  - textbox "Do not fill this in:" [ref=f3e120]
+              - generic [ref=f3e121]:
+                - generic [ref=f3e122]: Name *
+                - textbox "Name *" [ref=f3e123]
+              - generic [ref=f3e124]:
+                - generic [ref=f3e125]: Email *
+                - textbox "Email *" [ref=f3e126]
+              - generic [ref=f3e127]:
+                - generic [ref=f3e128]: Company or project name
+                - textbox "Company or project name" [ref=f3e129]:
+                  - /placeholder: e.g. Acme Co. or “Personal portfolio”
+              - generic [ref=f3e130]:
+                - generic [ref=f3e131]: Project type
+                - combobox "Project type" [ref=f3e132] [cursor=pointer]:
+                  - option "Select an option" [selected]
+                  - option "Personal portfolio"
+                  - option "Business landing page"
+                  - option "Small website refresh"
+                  - option "AI / automation / integrations"
+                  - option "CRM & data"
+                  - option "Other"
+              - generic [ref=f3e133]:
+                - generic [ref=f3e134]: Budget range
+                - combobox "Budget range" [ref=f3e135] [cursor=pointer]:
+                  - option "Select an option" [selected]
+                  - option "Under $600"
+                  - option "$600 – $2,000"
+                  - option "$2,000 – $5,000"
+                  - option "$5,000 – $10,000"
+                  - option "$10,000+"
+                  - option "Prefer not to say"
+              - generic [ref=f3e136]:
+                - generic [ref=f3e137]: Timeline
+                - combobox "Timeline" [ref=f3e138] [cursor=pointer]:
+                  - option "Select an option" [selected]
+                  - option "ASAP"
+                  - option "1 – 3 months"
+                  - option "3 – 6 months"
+                  - option "6+ months"
+                  - option "Flexible"
+              - generic [ref=f3e139]:
+                - generic [ref=f3e140]: Problem summary *
+                - textbox "Problem summary *" [ref=f3e141]:
+                  - /placeholder: What’s not working today, and what would success look like?
+              - button "Send snapshot" [ref=f3e143] [cursor=pointer]
+          - generic [ref=f3e144]:
+            - heading "Pick a time" [level=3] [ref=f3e145]
+            - iframe [ref=f3e147]
+          - paragraph [ref=f3e148]:
+            - text: Shoot us an email for any other questions
+            - link "hello@jocal.dev" [ref=f3e149] [cursor=pointer]:
+              - /url: mailto:hello@jocal.dev
+  - contentinfo [ref=f3e150]:
+    - generic [ref=f3e151]: © 2026 Jocal. All rights reserved.

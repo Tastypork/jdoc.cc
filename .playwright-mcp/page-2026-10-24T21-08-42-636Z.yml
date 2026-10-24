@@ -1,0 +1,169 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e2]:
+    - text: 
+    - generic [ref=f10e4]:
+      - generic [ref=f10e5]:
+        - heading [level=1] [ref=f10e6]: "|"
+        - paragraph [ref=f10e7]: Developer, Engineer, Innovator
+        - list [ref=f10e8]:
+          - listitem [ref=f10e9]:
+            - link "" [ref=f10e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/joshuaocallaghan/
+          - listitem [ref=f10e12]:
+            - link "" [ref=f10e13] [cursor=pointer]:
+              - /url: https://github.com/tastypork
+          - listitem [ref=f10e15]:
+            - link "" [ref=f10e16] [cursor=pointer]:
+              - /url: /joshua_ocallaghan.pdf
+      - link "╲╱" [ref=f10e18] [cursor=pointer]:
+        - /url: "#timeline"
+  - generic [ref=f10e20]:
+    - generic [ref=f10e21]: Terraform C Kubernetes Git OpenAI FFmpeg GCP Bash Java Azure Power BI Python Tableau Ubuntu Spark C# CentOS Hadoop Docker AWS SQL C++ Ansible Windows
+    - generic [ref=f10e22]: Terraform C Kubernetes Git OpenAI FFmpeg GCP Bash Java Azure Power BI Python Tableau Ubuntu Spark C# CentOS Hadoop Docker AWS SQL C++ Ansible Windows
+  - generic [ref=f10e25]:
+    - img "me" [ref=f10e29]
+    - generic [ref=f10e30]:
+      - generic [ref=f10e31]:
+        - heading "Who Am I?" [level=2] [ref=f10e32]
+        - paragraph [ref=f10e33]:
+          - strong [ref=f10e34]: Thanks for taking the time to visit my page!
+          - text: My name is Joshua O'Callaghan, a Cloud Software Engineer at Intel with a Master's in Computer Science from ASU. I'm passionate about Software Engineering, especially when working on challenging new projects. I've worked on optimizing workloads using AWS, GCP, and Azure, and I love diving into complex problems while continuously expanding my skill set. Outside of work, I'm hands-on with cars, woodworking, and building computers, and I love staying active and motivated. Feel free to check out my projects and download my
+          - link "resume" [ref=f10e35] [cursor=pointer]:
+            - /url: /joshua_ocallaghan.pdf
+          - text: "!"
+      - link "Read More" [ref=f10e36] [cursor=pointer]:
+        - /url: /about
+  - generic [ref=f10e39]:
+    - generic [ref=f10e40]:
+      - generic:
+        - generic [ref=f10e42]:
+          - generic [ref=f10e43]: 
+          - generic [ref=f10e44]: MOBILE APPS
+          - paragraph [ref=f10e45]: App development that matters, portable, and impactful.
+        - generic [ref=f10e47]:
+          - generic [ref=f10e48]: 
+          - generic [ref=f10e49]: Analytics
+          - paragraph [ref=f10e50]: Carefully analyzed data, concise and meaningful visualizations.
+        - generic [ref=f10e52]:
+          - generic [ref=f10e53]: 
+          - generic [ref=f10e54]: MEDIA
+          - paragraph [ref=f10e55]: Encoding, decoding, on VOD, Broadcast, Live
+        - generic [ref=f10e57]:
+          - generic [ref=f10e58]: 
+          - generic [ref=f10e59]: CODE OPTIMIZATION
+          - paragraph [ref=f10e60]: Building beautiful code that runs efficiently.
+        - generic [ref=f10e62]:
+          - generic [ref=f10e63]: 
+          - generic [ref=f10e64]: INNOVATIVE
+          - paragraph [ref=f10e65]: Thinking outside to box to solve complex problems.
+        - generic [ref=f10e67]:
+          - generic [ref=f10e68]: 
+          - generic [ref=f10e69]: SYSTEM DESIGN
+          - paragraph [ref=f10e70]: Building robust and reliable systems.
+        - generic [ref=f10e72]:
+          - generic [ref=f10e73]: 
+          - generic [ref=f10e74]: MOBILE APPS
+          - paragraph [ref=f10e75]: App development that matters, portable, and impactful.
+        - generic [ref=f10e77]:
+          - generic [ref=f10e78]: 
+          - generic [ref=f10e79]: Analytics
+          - paragraph [ref=f10e80]: Carefully analyzed data, concise and meaningful visualizations.
+        - generic [ref=f10e82]:
+          - generic [ref=f10e83]: 
+          - generic [ref=f10e84]: MEDIA
+          - paragraph [ref=f10e85]: Encoding, decoding, on VOD, Broadcast, Live
+        - generic [ref=f10e87]:
+          - generic [ref=f10e88]: 
+          - generic [ref=f10e89]: CODE OPTIMIZATION
+          - paragraph [ref=f10e90]: Building beautiful code that runs efficiently.
+        - generic [ref=f10e92]:
+          - generic [ref=f10e93]: 
+          - generic [ref=f10e94]: INNOVATIVE
+          - paragraph [ref=f10e95]: Thinking outside to box to solve complex problems.
+        - generic [ref=f10e97]:
+          - generic [ref=f10e98]: 
+          - generic [ref=f10e99]: SYSTEM DESIGN
+          - paragraph [ref=f10e100]: Building robust and reliable systems.
+    - generic [ref=f10e101]:
+      - button [ref=f10e102] [cursor=pointer]
+      - button [ref=f10e103] [cursor=pointer]
+      - button [ref=f10e104] [cursor=pointer]
+      - button [ref=f10e105] [cursor=pointer]
+      - button [ref=f10e106] [cursor=pointer]
+      - button [ref=f10e107] [cursor=pointer]
+  - generic [ref=f10e108]:
+    - heading "Technical Writings" [level=2] [ref=f10e111]
+    - generic [ref=f10e115]:
+      - link "img Real-Time Weather Data Ingestion and Visualization Using Python and ELK stack" [ref=f10e117] [cursor=pointer]:
+        - /url: /technical-writing/elk
+        - generic [ref=f10e118]:
+          - img "img" [ref=f10e119]
+          - generic [ref=f10e120]: Real-Time Weather Data Ingestion and Visualization Using Python and ELK stack
+      - link "img Interactive, Intelligent and Immersive Visualizations" [ref=f10e122] [cursor=pointer]:
+        - /url: /portfolio1.pdf
+        - generic [ref=f10e123]:
+          - img "img" [ref=f10e124]
+          - generic [ref=f10e125]: Interactive, Intelligent and Immersive Visualizations
+      - link "img Modularized Transformer-based Ranking Framework" [ref=f10e127] [cursor=pointer]:
+        - /url: /portfolio1.pdf
+        - generic [ref=f10e128]:
+          - img "img" [ref=f10e129]
+          - generic [ref=f10e130]: Modularized Transformer-based Ranking Framework
+      - link "img Distributed Databases using the Hadoop Ecosystem" [ref=f10e132] [cursor=pointer]:
+        - /url: /portfolio2.pdf
+        - generic [ref=f10e133]:
+          - img "img" [ref=f10e134]
+          - generic [ref=f10e135]: Distributed Databases using the Hadoop Ecosystem
+  - generic [ref=f10e136]:
+    - heading "Have you had an encounter with Jesus?" [level=2] [ref=f10e139]
+    - generic [ref=f10e142]:
+      - generic [ref=f10e144]:
+        - link [ref=f10e145] [cursor=pointer]:
+          - /url: /blog/jesus-christ
+          - img "img" [ref=f10e146]
+        - generic [ref=f10e147]:
+          - heading [level=4] [ref=f10e148]:
+            - link "WHO IS JESUS CHRIST?" [ref=f10e149] [cursor=pointer]:
+              - /url: /blog/jesus-christ
+          - paragraph [ref=f10e150]: Read this if you've never heard of Jesus!
+      - generic [ref=f10e152]:
+        - link [ref=f10e153] [cursor=pointer]:
+          - /url: /blog/waiting-faith
+          - img "img" [ref=f10e154]
+        - generic [ref=f10e155]:
+          - heading [level=4] [ref=f10e156]:
+            - link "WAITING ON FAITH" [ref=f10e157] [cursor=pointer]:
+              - /url: /blog/waiting-faith
+          - paragraph [ref=f10e158]: What should we do when our promises from God haven't delivered yet?
+      - generic [ref=f10e160]:
+        - link [ref=f10e161] [cursor=pointer]:
+          - /url: /blog/walking-christ
+          - img "img" [ref=f10e162]
+        - generic [ref=f10e163]:
+          - heading [level=4] [ref=f10e164]:
+            - link "WALKING IN CHRIST" [ref=f10e165] [cursor=pointer]:
+              - /url: /blog/walking-christ
+          - paragraph [ref=f10e166]: Trying to walk in faith? What does the Christian walk look like?
+  - generic [ref=f10e170]:
+    - generic [ref=f10e172]:
+      - heading "Have A Question?" [level=2] [ref=f10e173]
+      - list [ref=f10e174]:
+        - listitem [ref=f10e175]
+        - listitem [ref=f10e176]: Phoenix, United States
+        - listitem [ref=f10e177]: +1(602)607-3189
+        - listitem [ref=f10e178]: jcallaghan1250@gmail.com
+    - form [ref=f10e180]:
+      - generic [ref=f10e181]:
+        - textbox "Your Name" [ref=f10e184]
+        - textbox "Your Email" [ref=f10e187]
+        - textbox "Subject" [ref=f10e190]
+        - textbox "Message" [ref=f10e193]
+        - button "Send message" [ref=f10e195] [cursor=pointer]
+  - contentinfo [ref=f10e196]:
+    - link "Web design done by Jocal®" [ref=f10e198] [cursor=pointer]:
+      - /url: https://jocal.dev
+  - generic [ref=f10e201]:
+    - button [ref=f10e202]
+    - button [ref=f10e208]
+    - button [ref=f10e212]
+    - button [ref=f10e217]

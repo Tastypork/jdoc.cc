@@ -1,0 +1,31 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e2]:
+    - navigation [ref=f8e3]:
+      - generic [ref=f8e5]:
+        - link [ref=f8e7] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=f8e8]
+        - generic [ref=f8e9]: 
+    - generic [ref=f8e21]:
+      - heading "About Me" [level=3] [ref=f8e23]
+      - paragraph [ref=f8e24]:
+        - strong [ref=f8e25]: Thanks for taking the time to visit my page!
+        - text: My name is Joshua O'Callaghan. I graduated in 2020 from Arizona State University with a Master's Degree in Computer Science, specializing in Big Data where I found a passion within data structures and algorithms. My passion lies in Software Engineering especially when I can work on something new, and I love working on projects that challenge me both inside and outside the workplace.
+      - paragraph [ref=f8e26]: For the past few years, I've been at Intel as a Cloud Software Engineer, where I've had the opportunity to work with some amazing clients like Pinterest and PayPal. My work revolves around optimizing workloads and improving performance for workloads for our customers who use Intel chips. I have extensive experience with cloud providers such as AWS, GCP, and Azure, ensuring that our systems run smoothly and efficiently.
+      - paragraph [ref=f8e27]: In prior projects, I worked extensively with FFmpeg and media processing, specializing in analyzing and optimizing performance across various codecs and transcoding techniques. This experience allowed me to help clients maximize the efficiency of their media workloads.
+      - paragraph [ref=f8e28]:
+        - text: Beyond the technical stuff, I really enjoy learning new things and tackling fresh challenges. My experience spans a range of programming languages, from
+        - strong [ref=f8e29]: Python
+        - text: and Java to C++ and C. I'm always looking for ways to expand my skill set.
+      - paragraph [ref=f8e30]: When I'm not coding or problem-solving, I'm usually indulging in one of my many hobbies. I've always been a hands-on kind of person, whether it's working on cars, woodworking, jewelry making, or building computers. Despite a spinal cord injury from a motorcycle accident in 2020, I've never let it slow me down. I stay active, love being outdoors, and am determined to walk again someday!
+      - paragraph [ref=f8e31]:
+        - text: I hope you enjoyed learning a bit about me.
+        - strong [ref=f8e32]: Before you leave
+        - text: ", take a moment to check out some of the projects I've been working on and feel free to download my"
+        - strong [ref=f8e33]:
+          - link "resume" [ref=f8e34] [cursor=pointer]:
+            - /url: /joshua_ocallaghan.pdf
+        - text: "!"
+  - contentinfo [ref=f8e35]:
+    - link "Web design done by Jocal®" [ref=f8e37] [cursor=pointer]:
+      - /url: https://jocal.dev

@@ -79,6 +79,12 @@ const canonicalUrl = new URL(canonicalPath, Astro.site).toString();
   <body>
     <slot />
 
+    <footer id="footer" class="text-center">
+      <div class="credits">
+        <a href="https://jocal.dev" target="_blank" rel="noopener noreferrer">Web design done by Jocal®</a>
+      </div>
+    </footer>
+
     <!-- JavaScript Libraries -->
     <script is:inline src="/lib/jquery/jquery.min.js"></script>
     <script is:inline src="/lib/jquery/jquery-migrate.min.js"></script>
