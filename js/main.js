@@ -119,6 +119,25 @@ $(document).ready(function() {
     });
   }
 
+  if ($('.writings-carousel').length) {
+    $('.writings-carousel').owlCarousel({
+      autoplay: true,
+      autoplayTimeout: 5500,
+      autoplayHoverPause: true,
+      loop: true,
+      margin: 24,
+      dots: true,
+      dotsEach: 1,
+      nav: true,
+      navText: [
+        '<i class="ion-ios-arrow-back" aria-hidden="true"></i><span class="sr-only">Previous</span>',
+        '<i class="ion-ios-arrow-forward" aria-hidden="true"></i><span class="sr-only">Next</span>'
+      ],
+      responsiveClass: true,
+      responsive: { 0: { items: 1 }, 768: { items: 2 }, 992: { items: 3 } }
+    });
+  }
+
   // ========================================================================= //
   //  magnificPopup
   // ========================================================================= //

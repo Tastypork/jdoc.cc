@@ -767,6 +767,87 @@ nav ul li a {
   flex-wrap: wrap;
 }
 
+#portfolio .writings-carousel {
+  margin-bottom: 10px;
+}
+
+#portfolio .writings-carousel .portfolio-thumbnail {
+  margin-bottom: 0;
+  min-height: 0;
+}
+
+#portfolio .writings-carousel .image-container {
+  display: block;
+}
+
+#portfolio .writings-carousel .image-label {
+  right: 10px;
+  line-height: 1.35;
+  text-align: left;
+}
+
+#portfolio .writings-carousel .owl-stage-outer {
+  overflow: hidden;
+}
+
+#portfolio .writings-carousel .owl-nav {
+  display: block;
+  margin: 0;
+}
+
+#portfolio .writings-carousel .owl-nav button.owl-prev,
+#portfolio .writings-carousel .owl-nav button.owl-next {
+  position: absolute;
+  top: 42%;
+  width: 42px;
+  height: 42px;
+  margin: 0;
+  padding: 0;
+  border-radius: 50%;
+  background: rgba(41, 41, 41, 0.55);
+  color: #fff;
+  font-size: 22px;
+  line-height: 42px;
+  z-index: 2;
+  transform: translateY(-50%);
+}
+
+#portfolio .writings-carousel .owl-nav button.owl-prev:hover,
+#portfolio .writings-carousel .owl-nav button.owl-next:hover {
+  background: #7e96b8;
+  color: #fff;
+}
+
+#portfolio .writings-carousel .owl-nav button.owl-prev {
+  left: 12px;
+}
+
+#portfolio .writings-carousel .owl-nav button.owl-next {
+  right: 12px;
+}
+
+#portfolio .writings-carousel .owl-dots {
+  margin-top: 22px;
+  text-align: center;
+}
+
+#portfolio .writings-carousel .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px !important;
+  height: 12px !important;
+  border-radius: 50%;
+  border: 0;
+  padding: 0 !important;
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+#portfolio .writings-carousel .owl-dot.active,
+#portfolio .writings-carousel .owl-dot:hover {
+  background-color: #7e96b8;
+}
+
 .image-container {
   position: relative;
   display: inline-block;
